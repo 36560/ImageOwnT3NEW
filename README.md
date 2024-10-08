@@ -5,7 +5,7 @@
 
 ## About App
 The application serves as a system supporting safe car driving, dedicated to the Android platform. 
-Model was trined by efficient Yolov4 algorithm. App uses model in real-time by downloading labels and model file to device thanks to Firebase tools.
+Model was trained by efficient Yolov4 algorithm. App uses model in real-time by downloading labels and model file to device thanks to Firebase tools.
 
 ---
 
